@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{E1443A09-47F5-4A6E-AC89-F10FEDD719B3}|Default">
+﻿<Properties StartupConfiguration="DialAndWeb">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -7,7 +7,15 @@
             <Node name="Sensation_Dial_Leap" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="AssemblyDependencies" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" selected="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebApplication1" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="site.js" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -15,11 +23,19 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Sensation__Dial__Leap PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="DialAndWeb" Name="DialAndWeb">
+      <Items>
+        <StartupItem ItemId="{E1443A09-47F5-4A6E-AC89-F10FEDD719B3}" ItemName="Sensation_Dial_Leap" ConfigurationId="Default" />
+        <StartupItem ItemId="{BD62E080-3AC0-4028-81A0-95C9048AD093}" ItemName="WebApplication1" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
 </Properties>

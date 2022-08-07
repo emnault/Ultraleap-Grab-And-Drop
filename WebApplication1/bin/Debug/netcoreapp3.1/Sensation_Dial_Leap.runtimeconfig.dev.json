@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/emmy/.dotnet/store/|arch|/|tfm|",
+      "/Users/emmy/.nuget/packages"
+    ]
+  }
+}

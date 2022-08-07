@@ -1,16 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensation_Dial_Leap", "..\..\Dropbox (Heriot-Watt University Team)\Mac\Downloads\SDK\macOS x86_64\Ultraleap-Haptics-3.0.0-beta.10-macOS-x86_64-Research\Examples\csharp\Sensation_Dial_Leap\Sensation_Dial_Leap.csproj", "{E1443A09-47F5-4A6E-AC89-F10FEDD719B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{BD62E080-3AC0-4028-81A0-95C9048AD093}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		DialAndWeb|Any CPU = DialAndWeb|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E1443A09-47F5-4A6E-AC89-F10FEDD719B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E1443A09-47F5-4A6E-AC89-F10FEDD719B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1443A09-47F5-4A6E-AC89-F10FEDD719B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1443A09-47F5-4A6E-AC89-F10FEDD719B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD62E080-3AC0-4028-81A0-95C9048AD093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD62E080-3AC0-4028-81A0-95C9048AD093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD62E080-3AC0-4028-81A0-95C9048AD093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD62E080-3AC0-4028-81A0-95C9048AD093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

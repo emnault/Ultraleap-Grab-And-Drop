@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/emmy/RiderProjects/Sensation_Dial_Leap/WebApplication1/WebApplication1.csproj": {}
+  },
+  "projects": {
+    "/Users/emmy/Dropbox (Heriot-Watt University Team)/Mac/Downloads/SDK/macOS x86_64/Ultraleap-Haptics-3.0.0-beta.10-macOS-x86_64-Research/Examples/csharp/Sensation_Dial_Leap/Sensation_Dial_Leap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmy/Dropbox (Heriot-Watt University Team)/Mac/Downloads/SDK/macOS x86_64/Ultraleap-Haptics-3.0.0-beta.10-macOS-x86_64-Research/Examples/csharp/Sensation_Dial_Leap/Sensation_Dial_Leap.csproj",
+        "projectName": "Sensation_Dial_Leap",
+        "projectPath": "/Users/emmy/Dropbox (Heriot-Watt University Team)/Mac/Downloads/SDK/macOS x86_64/Ultraleap-Haptics-3.0.0-beta.10-macOS-x86_64-Research/Examples/csharp/Sensation_Dial_Leap/Sensation_Dial_Leap.csproj",
+        "packagesPath": "/Users/emmy/.nuget/packages/",
+        "outputPath": "/Users/emmy/Dropbox (Heriot-Watt University Team)/Mac/Downloads/SDK/macOS x86_64/Ultraleap-Haptics-3.0.0-beta.10-macOS-x86_64-Research/Examples/csharp/Sensation_Dial_Leap/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2-beta1, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/emmy/RiderProjects/Sensation_Dial_Leap/WebApplication1/WebApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/emmy/RiderProjects/Sensation_Dial_Leap/WebApplication1/WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "/Users/emmy/RiderProjects/Sensation_Dial_Leap/WebApplication1/WebApplication1.csproj",
+        "packagesPath": "/Users/emmy/.nuget/packages/",
+        "outputPath": "/Users/emmy/RiderProjects/Sensation_Dial_Leap/WebApplication1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/emmy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/emmy/Dropbox (Heriot-Watt University Team)/Mac/Downloads/SDK/macOS x86_64/Ultraleap-Haptics-3.0.0-beta.10-macOS-x86_64-Research/Examples/csharp/Sensation_Dial_Leap/Sensation_Dial_Leap.csproj": {
+                "projectPath": "/Users/emmy/Dropbox (Heriot-Watt University Team)/Mac/Downloads/SDK/macOS x86_64/Ultraleap-Haptics-3.0.0-beta.10-macOS-x86_64-Research/Examples/csharp/Sensation_Dial_Leap/Sensation_Dial_Leap.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
